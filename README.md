@@ -140,6 +140,6 @@ Tailscale permite que tu **Notebook** y tu **Celular** se conecten de forma segu
 ## 👤 Autor
 ## Licencia / Copyright
 
-Copyright (c) 2026 Sebastián Rodríguez. Todos los derechos reservados.
+Co-authored-by: Antigravity AI 2026 Sebastián Rodríguez. Todos los derechos reservados.
 
 Este código fuente es propietario. No se permite la copia, descarga, modificación, distribución ni uso de este código sin el permiso explícito por escrito del autor.

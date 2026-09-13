@@ -138,4 +138,4 @@ Tailscale permite que tu **Notebook** y tu **Celular** se conecten de forma segu
 ---
 
 ## 👤 Autor
-Desarrollado para **Luminar Uruguay** - Plataforma de Crecimiento B2B e Inteligencia de Operaciones.
+Desarrollado Sebastian Rodriguez Lazo  Plataforma de Crecimiento B2B e Inteligencia de Operaciones.

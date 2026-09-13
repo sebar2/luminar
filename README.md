@@ -1,4 +1,4 @@
-# ⚡ Luminar B2B Operations
+# ⚡Intelligence & Operations
 
 Plataforma integral de **Inteligencia y Operaciones Multi-Agente** para el sector B2B y compras públicas en Uruguay. Diseñada bajo una arquitectura híbrida que combina **SaaS Web**, **WebApp de escritorio para notebooks** y una **App Nativa Android (APK)**, todo conectado de forma privada y cifrada mediante **Tailscale Mesh VPN**.
 

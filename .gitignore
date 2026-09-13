@@ -29,3 +29,8 @@ Thumbs.db
 
 # Keep APK release
 !Luminar-v1.0.apk
+
+# Local private dossiers (kept local only)
+dossiers/BAUTEN.md
+dossiers/INGENER.md
+

@@ -1,0 +1,31 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+
+# Android & Gradle
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+
+# OS and Editors
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+
+# Keep APK release
+!Luminar-v1.0.apk
